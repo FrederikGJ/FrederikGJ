@@ -1,5 +1,6 @@
 ### Hi there 👋 my name is Frederik
 
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 ![dotnet-bagde]
 
