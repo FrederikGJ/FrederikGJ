@@ -36,10 +36,10 @@ I work at an engineering company as a software developer. I do mostly backend. B
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
-#### Favorite terminal
-![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=flat-square&logo=iterm2&logoColor=white)
-
-
+#### IDEs and editors 
+![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 #### Things I'm learning
 
