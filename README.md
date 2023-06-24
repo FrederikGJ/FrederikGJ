@@ -1,8 +1,5 @@
 ### Hi there 👋 my name is Frederik
 
-<img src="https://komarev.com/ghpvc/?username=FrederikGJ&color=blue" alt="FrederikGJ"/>
-
-
 ### What I do
 
 I work at an engineering company as a software developer. I do mostly backend. But it does happen that I do some frontend as well 🤓 
