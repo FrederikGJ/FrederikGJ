@@ -4,7 +4,7 @@
 
 I work at an engineering company as a software developer. I do mostly backend. But it does happen that I do some frontend as well. 
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=DominikMarcinowski&show_icons=false&theme=transparent&hide_border=true&count_private=true&hide_title=true)](https://github.com/FrederikGJ)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=FrederikGJ&show_icons=false&theme=transparent&hide_border=true&count_private=true&hide_title=true)](https://github.com/FrederikGJ)
 
 
 <details>
