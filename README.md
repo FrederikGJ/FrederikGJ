@@ -30,6 +30,7 @@ I work at an engineering company as a software developer. I do mostly backend. B
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Apache Tomcat](https://img.shields.io/badge/Apache%20Tomcat-%23F8DC75?style=flat-square&logo=apache-tomcat&logoColor=black)
 
 #### Operating systems
 ![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat-square&logo=apple&logoColor=white)
