@@ -34,6 +34,7 @@ I work at an engineering company as a software developer. I do mostly backend. B
 #### Things I'm learning
 
 🌱 How to deploy LLM applications for in-house use with Python and Flask - at my job
+
 :mortar_board: Math - in my spare time
 
 #### Personal
