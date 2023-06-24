@@ -2,7 +2,7 @@
 
 ### What I do
 
-I work at an engineering company as a software developer.
+I work at an engineering company as a software developer. I do mostly backend. But it does happen that I do some frontend as well. 
 
 ### My skills and tools I use
 
