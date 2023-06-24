@@ -36,6 +36,11 @@ I work at an engineering company as a software developer. I do mostly backend. B
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
+#### Favorite terminal
+![iTerm2](https://img.shields.io/badge/iTerm2-%23000000?style=flat-square&logo=iterm2&logoColor=white)
+
+
+
 #### Things I'm learning
 
 🌱 How to deploy LLM applications for in-house use with Python and Flask - at my job
