@@ -12,7 +12,7 @@ I work at an engineering company as a software developer.
 #### Things I'm learning
 
 
-🌱 How to deploy LLM applications with Python and Flask (at my job)
+🌱 How to deploy LLM applications for in-house use with Python and Flask (at my job)
 
 #### Personal
 
