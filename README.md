@@ -14,6 +14,12 @@ I work at an engineering company as a software developer.
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF?style=flat-square&logo=digitalocean&logoColor=white)
+![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
+
 
 #### Things I'm learning
 
