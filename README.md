@@ -48,6 +48,9 @@ I work at an engineering company as a software developer. I do mostly backend. B
 
 :mortar_board: Math - in my spare time
 
+#### Want to learn
+![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
+
 #### Personal
 
 Pronouns: he/him
