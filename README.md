@@ -1,6 +1,20 @@
 ### Hi there 👋 my name is Frederik
 
-🌱 I’m currently learning how to deploy LLM applications with Python and Flask (at my job)
+### What I do
+
+I work at an engineering company as a software developer.
+
+### My skills and tools I use
+
+#### Technologies
+
+
+#### Things I'm learning
+
+
+🌱 How to deploy LLM applications with Python and Flask (at my job)
+
+#### Personal
 
 😄 Pronouns: he/him
 
