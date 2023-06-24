@@ -1,5 +1,9 @@
 ### Hi there 👋 my name is Frederik
 
+🌱 I’m currently learning how to deploy LLM applications with Python and Flask
+😄 Pronouns: he/him
+
+
 
 <!--
 **FrederikGJ/FrederikGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
