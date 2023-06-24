@@ -1,6 +1,7 @@
 ### Hi there 👋 my name is Frederik
 
 🌱 I’m currently learning how to deploy LLM applications with Python and Flask
+
 😄 Pronouns: he/him
 
 
