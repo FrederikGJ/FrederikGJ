@@ -1,6 +1,6 @@
 ### Hi there 👋 my name is Frederik
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrederikGJ&show_icons=true&theme=light"
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrederikGJ&show_icons=true&theme=dark"
 
 ### What I do
 
