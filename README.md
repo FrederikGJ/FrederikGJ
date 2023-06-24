@@ -4,6 +4,11 @@
 
 I work at an engineering company as a software developer. I do mostly backend. But it does happen that I do some frontend as well. 
 
+<details>
+<summary>
+<b>More About me</b>
+</summary>
+
 ### My skills and tools I use
 
 #### Languages 
@@ -41,7 +46,7 @@ I work at an engineering company as a software developer. I do mostly backend. B
 
 😄 Pronouns: he/him
 
-
+</details>
 
 <!--
 **FrederikGJ/FrederikGJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
