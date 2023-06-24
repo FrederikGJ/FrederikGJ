@@ -7,6 +7,8 @@ I work at an engineering company as a software developer.
 ### My skills and tools I use
 
 #### Technologies
+![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&style=flat-square)
+
 
 
 #### Things I'm learning
