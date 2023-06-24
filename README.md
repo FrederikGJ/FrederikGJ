@@ -6,7 +6,8 @@ I work at an engineering company as a software developer.
 
 ### My skills and tools I use
 
-#### Languages
+#### Languages 
+![Java](https://img.shields.io/badge/Java-%23FF0000?style=flat-square&logo=java&logoColor=white)
 
 
 #### Technologies
