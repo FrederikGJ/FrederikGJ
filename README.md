@@ -23,6 +23,7 @@ I work at an engineering company as a software developer. I do mostly backend. B
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
 
