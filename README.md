@@ -26,11 +26,15 @@ I work at an engineering company as a software developer. I do mostly backend. B
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
 
+#### Operating systems
+![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat-square&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoColor=white)
+![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
 #### Things I'm learning
 
-
-🌱 How to deploy LLM applications for in-house use with Python and Flask (at my job)
+🌱 How to deploy LLM applications for in-house use with Python and Flask - at my job
+:mortar_board: Math - in my spare time
 
 #### Personal
 
