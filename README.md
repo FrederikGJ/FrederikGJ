@@ -1,10 +1,5 @@
 ### Hi there 👋 my name is Frederik
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FrederikGJ&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=FrederikGJ&show_icons=true&theme=dark"
-</div>
-  
 ### What I do
 
 I work at an engineering company as a software developer. I do mostly backend. But it does happen that I do some frontend as well 🤓 
