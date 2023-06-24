@@ -51,7 +51,7 @@ I work at an engineering company as a software developer. I do mostly backend. B
 #### Interested in learning
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
 
-#### Personal
+### Personal
 
 Pronouns: he/him
 
