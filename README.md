@@ -50,7 +50,7 @@ I work at an engineering company as a software developer. I do mostly backend. B
 
 #### Personal
 
-😄 Pronouns: he/him
+Pronouns: he/him
 
 </details>
 
