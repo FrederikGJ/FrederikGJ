@@ -37,10 +37,10 @@ I work at an engineering company as a software developer. I do mostly backend de
 ![Windows](https://img.shields.io/badge/Windows-%230078D6?style=flat-square&logo=windows&logoColor=white)
 ![Linux Mint](https://img.shields.io/badge/Linux%20Mint-%2387CF3E?style=flat-square&logo=linux-mint&logoColor=white)
 
-#### Text editors and IDEs
+#### Favorite text editors and IDEs
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![LunarVim](https://img.shields.io/badge/LunarVim-%237F00FF?style=flat-square&logo=vim&logoColor=white)
 ![Neovim](https://img.shields.io/badge/Neovim-%2357A143?style=flat-square&logo=neovim&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-%23007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 #### Things I'm learning
