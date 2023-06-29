@@ -48,6 +48,8 @@ I work at an engineering company as a software developer. I do mostly backend de
 
 :mortar_board: Math - in my spare time
 
+![React](https://img.shields.io/badge/React-%2361DAFB?style=flat-square&logo=react&logoColor=black)
+
 #### Interested in learning
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
 
