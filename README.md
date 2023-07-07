@@ -50,6 +50,7 @@ I work at an engineering company as a software developer. I do mostly backend de
 
 #### Interested in learning
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Personal
 
