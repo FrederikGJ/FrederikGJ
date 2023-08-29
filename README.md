@@ -3,6 +3,7 @@
 ### What I do
 
 I work at an engineering company as a software developer. I do mostly backend development. But it does happen that I do some frontend as well 🤓 
+Right now, I am working on some web applications for construction engineers.
 
 <details>
 <summary>
