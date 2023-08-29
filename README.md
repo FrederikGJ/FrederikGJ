@@ -18,7 +18,6 @@ I work at an engineering company as a software developer. I do mostly backend de
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
 
-
 #### Technologies
 ![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flask&logoColor=white&style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991?style=flat-square)
@@ -42,15 +41,8 @@ I work at an engineering company as a software developer. I do mostly backend de
 ![LunarVim](https://img.shields.io/badge/LunarVim-%237F00FF?style=flat-square&logo=vim&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
-#### Things I'm learning
-
-🌱 How to deploy LLM applications for in-house use with Python and Langchain - at my job
-
-:mortar_board: Math - in my spare time
-
 #### Interested in learning
 ![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
-![Go](https://img.shields.io/badge/Go-%2300ADD8?style=flat-square&logo=go&logoColor=white)
 
 ### Personal
 
