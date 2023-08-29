@@ -9,6 +9,9 @@ Right now, I am working on some web applications for construction engineers.
 <summary>
 <h3>More About me</h3>
 </summary>
+
+### Previous work experience
+I have developed in-house applications for the engineering company where I work. Furthermore, I have been involved in projects utilizing the OpenAI API and other open-source LLMs for our internal AI applications. This primarily involved embedding text data and leveraging these LLMs to create specialized Q&A applications.
   
 ### My skills and tools I use
 
@@ -30,7 +33,6 @@ Right now, I am working on some web applications for construction engineers.
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
-
 
 #### Operating systems
 ![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat-square&logo=apple&logoColor=white)
