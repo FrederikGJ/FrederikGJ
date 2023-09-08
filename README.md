@@ -24,16 +24,17 @@ I have developed in-house applications for the engineering company where I work.
 
 
 #### Technologies
-![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flask&logoColor=white&style=flat-square)
 ![OpenAI API](https://img.shields.io/badge/OpenAI%20API-%23412991?style=flat-square)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031?logo=angular&logoColor=white&style=flat-square)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4?logo=dotnet&logoColor=white&style=flat-square)
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05032?style=flat-square&logo=git&logoColor=white)
 ![DigitalOcean](https://img.shields.io/badge/DigitalOcean-%230080FF?style=flat-square&logo=digitalocean&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft%20Azure-%230078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23181717?style=flat-square&logo=github&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-%230078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%23000000?logo=flask&logoColor=white&style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1?style=flat-square&logo=mysql&logoColor=white)
 
 #### Operating systems
 ![macOS](https://img.shields.io/badge/macOS-%23000000?style=flat-square&logo=apple&logoColor=white)
@@ -46,7 +47,6 @@ I have developed in-house applications for the engineering company where I work.
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-%23000000?style=flat-square&logo=intellij-idea&logoColor=white)
 
 #### Interested in learning
-![Rust](https://img.shields.io/badge/Rust-%23000000?style=flat-square&logo=rust&logoColor=white)
 ![C](https://img.shields.io/badge/C-%23000000?style=flat-square&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23000000?style=flat-square&logo=c%2B%2B&logoColor=white)
 
