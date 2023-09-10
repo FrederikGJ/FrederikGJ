@@ -5,12 +5,11 @@
 I work at an engineering company as a software developer. I do mostly backend development. But it does happen that I do some frontend as well 🤓 
 Right now, I am working on some web applications for construction engineers.
 
-<!--
 <details>
 <summary>
 <h3>More About me</h3>
 </summary>
--->
+
 ### Previous work experience
 I have developed in-house applications for the engineering company where I work. Furthermore, I have been involved in projects utilizing the OpenAI API and other open-source LLMs for our internal AI applications. This primarily involved embedding text data and leveraging these LLMs to create specialized Q&A applications.
   
