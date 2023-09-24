@@ -10,12 +10,12 @@ Right now, I am working on some web applications for construction engineers.
 ![Python](https://img.shields.io/badge/Python-%233776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
-
+<!--
 <details>
 <summary>
 <h3>More About me</h3>
 </summary>
-
+-->
 ### Previous work experience
 I have developed in-house applications for the engineering company where I work. Furthermore, I have been involved in projects utilizing the OpenAI API and other open-source LLMs for our internal AI applications. This primarily involved embedding text data and leveraging these LLMs to create specialized Q&A applications.
   
