@@ -1,4 +1,4 @@
-### Hi there 👋 my name is Frederik
+### Hi 👋 my name is Frederik
 
 ### What I do
 
