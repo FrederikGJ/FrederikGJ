@@ -11,5 +11,6 @@ Right now, I am working on some web applications for construction engineers.
 ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6?style=flat-square&logo=typescript&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-%23239120?style=flat-square&logo=c-sharp&logoColor=white)
 
-#### For more information please visit my github homepage 
+#### For more information please visit my github homepage
+
 [frederikgj.github.io/](https://frederikgj.github.io/)
