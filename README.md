@@ -3,7 +3,6 @@
 ### What I do
 
 I work at an engineering company as a software developer. I do mostly backend development. But it does happen that I do some frontend as well 🤓 
-Right now, I am working on some web applications for construction engineers.
 
 #### Languages 
 ![Java](https://img.shields.io/badge/Java-%23FF0000?style=flat-square&logo=java&logoColor=white)
