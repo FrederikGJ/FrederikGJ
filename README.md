@@ -2,7 +2,7 @@
 
 ### What I do
 
-I work at an engineering company as a software developer. I do mostly data science and backend development. But it does happen that I do some frontend as well 🤓 
+I work at an engineering company as a software developer. I mostly do data science and backend development. But it does happen that I do some frontend as well 🤓 
 
 #### Languages 
 ![Java](https://img.shields.io/badge/Java-%23FF0000?style=flat-square&logo=java&logoColor=white)
